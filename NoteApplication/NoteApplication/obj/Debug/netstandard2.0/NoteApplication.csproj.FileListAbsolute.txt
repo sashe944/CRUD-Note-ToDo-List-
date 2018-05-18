@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\bin\Debug\netstandard2.0\NoteApplication.deps.json
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\bin\Debug\netstandard2.0\NoteApplication.dll
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\bin\Debug\netstandard2.0\NoteApplication.pdb
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\obj\Debug\netstandard2.0\NoteApplication.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\obj\Debug\netstandard2.0\NoteApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\obj\Debug\netstandard2.0\NoteApplication.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\obj\Debug\netstandard2.0\NoteApplication.AssemblyInfo.cs
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\obj\Debug\netstandard2.0\NoteApplication.dll
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication\obj\Debug\netstandard2.0\NoteApplication.pdb

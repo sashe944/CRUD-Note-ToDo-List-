@@ -1,0 +1,1 @@
+C:\Users\PC\Desktop\NoteApplication\NoteApplication\NoteApplication.UWP\NoteApplication.UWP.csproj;x86
